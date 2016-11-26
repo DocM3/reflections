@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+  Went pretty well. Though i did not see i could scroll up at first.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Its easier to go back and forth in time if there are issues. Identifing them
+    will be much easier. Makes it more efficient.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    You controll what is saved in the cloud. I wouldn't know any other benefit
+    as personally i see the auto way as more beneficial.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+ 
+    I have no idea. Probably processing setup.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    no idea.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because it's way easier to revert back. Simply test it and go back if it
+    did not work.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Create my own tools, learn how to program.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I can use the commands git log and git diff to view changes between files. By first using git log i can see all updates within a repository. Then i can use get diff and use the ID's of the commits to print the code and see the changes in green and red.
+
+How might using version control make you more confident to make changes that could break something?
+
+    Because it's way easier to revert back. Simply test it and go back if it
+    did not work.
+
+    Now that you have your workspace set up, what do you want to try using Git for?
+
+        Learn how to program and ultimately create my own tools/webapps/idea's
