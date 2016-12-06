@@ -1,1 +1,25 @@
 What happens when you initialize a repository? Why do you need to do it?
+
+    it creates a .git file and enables you to start tracking changes. If you don't do it, you're not tracking changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    The staging area is a middle place. You can park (multiple) files there that will be part of the same update. This helps you manage all updates that would require multiple files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    Double check what changes you made to the code / to which file before actually commiting them to the code in git
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    Making very big changes to the program, like new features. Banches help you keep the master file so you can experiment witout being scared of losing or affecting the main source code. Also bugs and all can still be fixed in the main source code.
+
+    Actually, even bugs should be fixed in new branches. Also when working together you can create branches for all new features.
+
+How do the diagrams help you visualize the branch structure?
+
+    drawing them out helps you visualize.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    It helps to show the path of what has been merged together. To get an understanding of whern to find what later on and what kind of big changes have been made. The result of merging two branches together is that two different functionalities can be added to the same commit. They litterally become one.
